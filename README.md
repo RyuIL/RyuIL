@@ -6,32 +6,32 @@
 ### Frontend
 <div>
 <img src="https://github.com/RyuIL/portfolio/blob/master/src/assets/img/ES6.jpg" width="100px">
-<img src="./src/assets/img/react.png" width="100px">
-<img src="./src/assets/img/mobx.png" width="100px">
-<img src="./src/assets/img/nextjs.png" width="100px">
-<img src="./src/assets/img/styled-components.png" width="100px">
-<img src="./src/assets/img/webpack.png" width="100px">
-<img src="./src/assets/img/zeplin.png" width="100px">
+<img src="https://github.com/RyuIL/portfolio/blob/master/src/assets/img/react.png" width="100px">
+<img src="https://github.com/RyuIL/portfolio/blob/master/src/assets/img/mobx.png" width="100px">
+<img src="https://github.com/RyuIL/portfolio/blob/master/src/assets/img/nextjs.png" width="100px">
+<img src="https://github.com/RyuIL/portfolio/blob/master/src/assets/img/styled-components.png" width="100px">
+<img src="https://github.com/RyuIL/portfolio/blob/master/src/assets/img/webpack.png" width="100px">
+<img src="https://github.com/RyuIL/portfolio/blob/master/src/assets/img/zeplin.png" width="100px">
 </div>
 
 ### Backend
 <div> 
-<img src="./src/assets/img/java.png" width="100px">
-<img src="./src/assets/img/springboot.png" width="100px">
-<img src="./src/assets/img/Expressjs.png" width="100px">
-<img src="./src/assets/img/mysql.png" width="100px">
-<img src="./src/assets/img/mongodb.png" width="100px">
+<img src="https://github.com/RyuIL/portfolio/blob/master/src/assets/img/java.png" width="100px">
+<img src="https://github.com/RyuIL/portfolio/blob/master/src/assets/img/springboot.png" width="100px">
+<img src="https://github.com/RyuIL/portfolio/blob/master/src/assets/img/Expressjs.png" width="100px">
+<img src="https://github.com/RyuIL/portfolio/blob/master/src/assets/img/mysql.png" width="100px">
+<img src="https://github.com/RyuIL/portfolio/blob/master/src/assets/img/mongodb.png" width="100px">
 <img src="https://t1.daumcdn.net/cfile/tistory/211B43475865B4201E" width="100px">
 </div>
 
 ### etc
 <div> 
-<img src="./src/assets/img/git.png" width="100px">
-<img src="./src/assets/img/jira.jpg" width="100px">
-<img src="./src/assets/img/postman.png" width="100px">
-<img src="./src/assets/img/amazon-ec2.png" width="100px">
-<img src="./src/assets/img/docker.png" width="100px">
-<img src="./src/assets/img/graphql.png" width="100px">
+<img src="https://github.com/RyuIL/portfolio/blob/master/src/assets/img/git.png" width="100px">
+<img src="https://github.com/RyuIL/portfolio/blob/master/src/assets/img/jira.jpg" width="100px">
+<img src="https://github.com/RyuIL/portfolio/blob/master/src/assets/img/postman.png" width="100px">
+<img src="https://github.com/RyuIL/portfolio/blob/master/src/assets/img/amazon-ec2.png" width="100px">
+<img src="https://github.com/RyuIL/portfolio/blob/master/src/assets/img/docker.png" width="100px">
+<img src="https://github.com/RyuIL/portfolio/blob/master/src/assets/img/graphql.png" width="100px">
 </div>
 
 
