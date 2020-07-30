@@ -5,7 +5,7 @@
 
 ### Frontend
 <div>
-<img src="./src/assets/img/ES6.jpg" width="100px">
+<img src="https://github.com/RyuIL/portfolio/blob/master/src/assets/img/ES6.jpg" width="100px">
 <img src="./src/assets/img/react.png" width="100px">
 <img src="./src/assets/img/mobx.png" width="100px">
 <img src="./src/assets/img/nextjs.png" width="100px">
