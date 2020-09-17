@@ -5,13 +5,13 @@
 
 ### Frontend
 <div>
-<img src="https://github.com/RyuIL/portfolio/blob/master/src/assets/img/ES6.jpg" width="100px" alt="ES6" title="ES6">
-<img src="https://github.com/RyuIL/portfolio/blob/master/src/assets/img/react.png" width="100px" title="React">
-<img src="https://github.com/RyuIL/portfolio/blob/master/src/assets/img/mobx.png" width="100px" title="Mobx">
-<img src="https://github.com/RyuIL/portfolio/blob/master/src/assets/img/nextjs.png" width="100px" title="Next.js">
-<img src="https://github.com/RyuIL/portfolio/blob/master/src/assets/img/styled-components.png" width="100px" title="Styled-components">
-<img src="https://github.com/RyuIL/portfolio/blob/master/src/assets/img/webpack.png" width="100px" title="Webpack">
-<img src="https://github.com/RyuIL/portfolio/blob/master/src/assets/img/zeplin.png" width="100px" title="Zeplin">
+<img src="https://github.com/RyuIL/portfolio/blob/master/src/assets/img/ES6.jpg" width="50px" alt="ES6" title="ES6">
+<img src="https://github.com/RyuIL/portfolio/blob/master/src/assets/img/react.png" width="50px" title="React">
+<img src="https://github.com/RyuIL/portfolio/blob/master/src/assets/img/mobx.png" width="50px" title="Mobx">
+<img src="https://github.com/RyuIL/portfolio/blob/master/src/assets/img/nextjs.png" width="50px" title="Next.js">
+<img src="https://github.com/RyuIL/portfolio/blob/master/src/assets/img/styled-components.png" width="50px" title="Styled-components">
+<img src="https://github.com/RyuIL/portfolio/blob/master/src/assets/img/webpack.png" width="50px" title="Webpack">
+<img src="https://github.com/RyuIL/portfolio/blob/master/src/assets/img/zeplin.png" width="50px" title="Zeplin">
 </div>
 
 ### Backend
