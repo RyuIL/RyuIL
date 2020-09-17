@@ -3,6 +3,7 @@
 <br />
 **Languages and Tools:**  
 
+<!---
 ### Frontend
 <div>
 <img src="https://github.com/RyuIL/portfolio/blob/master/src/assets/img/ES6.jpg" width="50px" alt="ES6" title="ES6">
@@ -33,6 +34,7 @@
 <img src="https://github.com/RyuIL/portfolio/blob/master/src/assets/img/docker.png" width="50px"  title="Docker">
 </div>
 
+--->
 
 <!--- 
   if you have forked this to use on your profile, 
