@@ -1,9 +1,9 @@
 ### Hi there, I'm [Ilhan!] 👋
-
+<!---
 <br />
 **Languages and Tools:**  
 
-<!---
+
 ### Frontend
 <div>
 <img src="https://github.com/RyuIL/portfolio/blob/master/src/assets/img/ES6.jpg" width="50px" alt="ES6" title="ES6">
