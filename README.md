@@ -5,7 +5,6 @@
 
 ### Frontend
 <div>
-  ES6
 <img src="https://github.com/RyuIL/portfolio/blob/master/src/assets/img/ES6.jpg" width="100px" alt="ES6" title="ES6">
 <img src="https://github.com/RyuIL/portfolio/blob/master/src/assets/img/react.png" width="100px" title="React">
 <img src="https://github.com/RyuIL/portfolio/blob/master/src/assets/img/mobx.png" width="100px" title="Mobx">
@@ -17,22 +16,21 @@
 
 ### Backend
 <div> 
-<img src="https://github.com/RyuIL/portfolio/blob/master/src/assets/img/java.png" width="100px">
-<img src="https://github.com/RyuIL/portfolio/blob/master/src/assets/img/springboot.png" width="100px">
-<img src="https://github.com/RyuIL/portfolio/blob/master/src/assets/img/Expressjs.png" width="100px">
-<img src="https://github.com/RyuIL/portfolio/blob/master/src/assets/img/mysql.png" width="100px">
-<img src="https://github.com/RyuIL/portfolio/blob/master/src/assets/img/mongodb.png" width="100px">
+<img src="https://github.com/RyuIL/portfolio/blob/master/src/assets/img/java.png" width="100px" title="Java">
+<img src="https://github.com/RyuIL/portfolio/blob/master/src/assets/img/springboot.png" width="100px" title="Spring boot">
+<img src="https://github.com/RyuIL/portfolio/blob/master/src/assets/img/Expressjs.png" width="100px" title="Express">
+<img src="https://github.com/RyuIL/portfolio/blob/master/src/assets/img/mysql.png" width="100px" title="Mysql">
+<img src="https://github.com/RyuIL/portfolio/blob/master/src/assets/img/mongodb.png" width="100px" title="MongoDB">
 <img src="https://t1.daumcdn.net/cfile/tistory/211B43475865B4201E" width="100px">
 </div>
 
 ### etc
 <div> 
-<img src="https://github.com/RyuIL/portfolio/blob/master/src/assets/img/git.png" width="100px">
-<img src="https://github.com/RyuIL/portfolio/blob/master/src/assets/img/jira.jpg" width="100px">
-<img src="https://github.com/RyuIL/portfolio/blob/master/src/assets/img/postman.png" width="100px">
-<img src="https://github.com/RyuIL/portfolio/blob/master/src/assets/img/amazon-ec2.png" width="100px">
-<img src="https://github.com/RyuIL/portfolio/blob/master/src/assets/img/docker.png" width="100px">
-<img src="https://github.com/RyuIL/portfolio/blob/master/src/assets/img/graphql.png" width="100px">
+<img src="https://github.com/RyuIL/portfolio/blob/master/src/assets/img/git.png" width="100px"  title="Git">
+<img src="https://github.com/RyuIL/portfolio/blob/master/src/assets/img/jira.jpg" width="100px"  title="Jira">
+<img src="https://github.com/RyuIL/portfolio/blob/master/src/assets/img/postman.png" width="100px"  title="Postman">
+<img src="https://github.com/RyuIL/portfolio/blob/master/src/assets/img/amazon-ec2.png" width="100px"  title="EC2">
+<img src="https://github.com/RyuIL/portfolio/blob/master/src/assets/img/docker.png" width="100px"  title="Docker">
 </div>
 
 
